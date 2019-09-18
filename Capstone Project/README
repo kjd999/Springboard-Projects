@@ -1,1 +1,17 @@
+This folder contains several datasets and documnets pertaining to the first Capstone project that involves taking three 
+NBA datasets - career length, salary, and stats - and combining them into one so that it can be analyzed for relationships
+between player performance and salary.
 
+
+nba_data_cleanup.ipynb        Jupyter Notebook file of the data cleanup process involved in taking three datsets and 
+                              combining them into one.
+nba_final_dataset.csv         final dataset that combines all three original datasets.
+nba_career_final.csv          final career dataset.
+nba_salary_final_done.csv     final salary dataset. 
+nba_stats_final_nodupes.csv   final stats dataset. There are still issues with it (it contains several null values)
+                              but there aren't any duplicate rows. The null cleanup was saved for the final dataset. 
+nba_career_fixed.csv          initial career set that only had minimal cleaning.
+nba_salaries_fixed.csv        initial salaries set that only had minial cleaning.
+nba_season_stats_p.csv        inital stats set with, again, minimal cleaning.
+
+Documents folder              currently contains the original project proposal and the data wrangling summary.
