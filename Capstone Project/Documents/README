@@ -1,11 +1,14 @@
 Currently contains three documents
 
 
-Capstone 1 Project Proposal         The inital idea for a project involving finding relationships between NBA player salaries 
-                                    and their performance.
+Capstone 1 Project Proposal             The inital idea for a project involving finding relationships between NBA player salaries 
+                                        and their performance.
                                     
-Capstone 1 Data Wrangling Summary   A summary of how three datasets - career length, salaries, and stats - were cleaned 
-                                    and combined into a single dataset.  
+Capstone 1 Data Wrangling Summary       A summary of how three datasets - career length, salaries, and stats - were cleaned 
+                                        and combined into a single dataset.  
 
-Capstone ! Data Story               A summary of the trends found through a graphical analysis of the previously created 
-                                    dataset.
+Capstone ! Data Story                   A summary of the trends found through a graphical analysis of the previously created 
+                                        dataset.
+
+Capstone 1 Exploratory Data Analysis    An exploration of several variables using a bootstrap analysis to determine statistical 
+                                        signifigance, based partially off of the data story. 
