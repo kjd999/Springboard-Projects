@@ -3,28 +3,31 @@ NBA datasets - career length, salary, and stats - and combining them into one so
 between player performance and salary.
 
 
-nba_data_cleanup.ipynb             Jupyter Notebook file of the data cleanup process involved in taking three datsets and 
-                                   combining them into one.
+nba_data_cleanup.ipynb                 Jupyter Notebook file of the data cleanup process involved in taking three datsets and 
+                                       combining them into one.
                                    
-nba_final_dataset.csv              final dataset that combines all three original datasets.
+nba_final_dataset.csv                  final dataset that combines all three original datasets.
 
-nba_career_final.csv               final career dataset.
+nba_career_final.csv                   final career dataset.
 
-nba_salary_final_done.csv          final salary dataset. 
+nba_salary_final_done.csv              final salary dataset. 
 
-nba_stats_final_nodupes.csv        final stats dataset. There are still issues with it (it contains several null values)
-                                   but there aren't any duplicate rows. The null cleanup was saved for the final dataset. 
+nba_stats_final_nodupes.csv            final stats dataset. There are still issues with it (it contains several null values)
+                                       but there aren't any duplicate rows. The null cleanup was saved for the final dataset. 
                                    
-nba_career_fixed.csv               initial career set that only had minimal cleaning.
+nba_career_fixed.csv                   initial career set that only had minimal cleaning.
 
-nba_salaries_fixed.csv             initial salaries set that only had minial cleaning.
+nba_salaries_fixed.csv                 initial salaries set that only had minial cleaning.
 
-nba_season_stats_p.csv             inital stats set with, again, minimal cleaning.
+nba_season_stats_p.csv                 inital stats set with, again, minimal cleaning.
 
-nba_data_story.ipnyb               Jupyter Notebook file of the data story, which includes several graphs of trends in the NBA
-                                   dataset originally created in the nba_data_cleanup file.
+nba_data_story.ipnyb                   Jupyter Notebook file of the data story, which includes several graphs of trends in the NBA
+                                       dataset originally created in the nba_data_cleanup file.
                                    
-exploratory_data_analysis.ipynb    Jupyter Notebook file of NBA data analysis. Consists mainly of various bootstrap tests to 
-                                   determine statistical significance of various trends noticed in the data story.
+exploratory_data_analysis.ipynb        Jupyter Notebook file of NBA data analysis. Consists mainly of various bootstrap tests to 
+                                       determine statistical significance of various trends noticed in the data story.
+                                   
+nba machine learning analysis.ipynb    Jupyter Notebook file comntinaing machine learning models that attempt to predict player
+                                       salary and player position from statisitcal performance. 
 
-Documents folder                   currently contains the original project proposal and the data wrangling summary.
+Documents folder                       currently contains the original project proposal and the data wrangling summary.
