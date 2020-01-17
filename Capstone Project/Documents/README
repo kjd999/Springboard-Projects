@@ -7,7 +7,7 @@ Capstone 1 Project Proposal             The inital idea for a project involving 
 Capstone 1 Data Wrangling Summary       A summary of how three datasets - career length, salaries, and stats - were cleaned 
                                         and combined into a single dataset.  
 
-Capstone ! Data Story                   A summary of the trends found through a graphical analysis of the previously created 
+Capstone 1 Data Story                   A summary of the trends found through a graphical analysis of the previously created 
                                         dataset.
 
 Capstone 1 Exploratory Data Analysis    An exploration of several variables using a bootstrap analysis to determine statistical 
@@ -15,3 +15,8 @@ Capstone 1 Exploratory Data Analysis    An exploration of several variables usin
 
 Capstone 1 Milestone Report             A summary of the project proposal, data wrangling summary, data story, and exploratory
                                         data analysis.
+
+Capstone 1 In-Depth Analysis            A summary of the machine learning analysis of relationships between NBA player salaries
+                                        and statistical performance, as well player position and statistical performance.
+                                        
+Capstone 1 Final Report                 Final report on the entire Capstone 1 project.                                         
