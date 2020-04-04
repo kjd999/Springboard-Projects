@@ -1,1 +1,13 @@
+Capstone Project 2 involves understanding how accurately a pretrained CNN can identify stylized images created on 
+a style transfer model. 
 
+The following files are currently part of this folder:
+
+Capstone 2 Project Milesone Report 1                  Summarizes the main details of the project in its intial stages
+
+Magenta Arbitrary Style Transfer                      Jupyter Notebook that details how to run the Magenta style transfer model
+                                                      that was used to create the stylized images on Google Colab. 
+                                                      
+Transfer Learning Initial Models                      Jupyter Notebook that details the process of how the inital models 
+                                                      were tested, including how well the best model did on identifying 
+                                                      stylized images                               
