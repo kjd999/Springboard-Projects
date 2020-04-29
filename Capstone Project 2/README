@@ -5,9 +5,15 @@ The following files are currently part of this folder:
 
 Capstone 2 Project Milesone Report 1                  Summarizes the main details of the project in its intial stages
 
+Capstone 2 Project Milesone Report 2                  In addition to the details in Report 1, this adds details about implementing
+                                                      a cyclical learning rate and test time augmentation                                              
+
 Magenta Arbitrary Style Transfer                      Jupyter Notebook that details how to run the Magenta style transfer model
                                                       that was used to create the stylized images on Google Colab. 
                                                       
 Transfer Learning Initial Models                      Jupyter Notebook that details the process of how the inital models 
                                                       were tested, including how well the best model did on identifying 
-                                                      stylized images                               
+                                                      stylized images   
+                                                      
+Transfer Learning Tuning Models                       Includes all of the code from the Initial Models notebook and also adds the code
+                                                      for cyclical learning rate and test time augmentation
