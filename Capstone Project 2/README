@@ -3,9 +3,9 @@ a style transfer model.
 
 The following files are currently part of this folder:
 
-Capstone 2 Project Milesone Report 1                  Summarizes the main details of the project in its intial stages
+Capstone 2 Project Milestone Report 1                  Summarizes the main details of the project in its intial stages
 
-Capstone 2 Project Milesone Report 2                  In addition to the details in Report 1, this adds details about implementing
+Capstone 2 Project Milestone Report 2                  In addition to the details in Report 1, this adds details about implementing
                                                       a cyclical learning rate and test time augmentation                                              
 
 Magenta Arbitrary Style Transfer                      Jupyter Notebook that details how to run the Magenta style transfer model
