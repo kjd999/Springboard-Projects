@@ -3,11 +3,17 @@ a style transfer model.
 
 The following files are currently part of this folder:
 
-Capstone 2 Project Milestone Report 1                  Summarizes the main details of the project in its intial stages
+Capstone 2 Project Milestone Report 1                 Summarizes the main details of the project in its intial stages
 
-Capstone 2 Project Milestone Report 2                  In addition to the details in Report 1, this adds details about implementing
-                                                      a cyclical learning rate and test time augmentation                                              
-
+Capstone 2 Project Milestone Report 2                 In addition to the details in Report 1, this adds details about implementing
+                                                      a cyclical learning rate and test time augmentation     
+                                                      
+Capstone 2 Final Project                              Details everything from Milestones 1 and 2 and also includes accuracy 
+                                                      analysis per feature 
+                                                      
+Capstone 2 Slide Deck                                 A slide deck of the process, which is covered in more detail in the 
+                                                      final report                                                      
+                                                      
 Magenta Arbitrary Style Transfer                      Jupyter Notebook that details how to run the Magenta style transfer model
                                                       that was used to create the stylized images on Google Colab. 
                                                       
@@ -17,3 +23,8 @@ Transfer Learning Initial Models                      Jupyter Notebook that deta
                                                       
 Transfer Learning Tuning Models                       Includes all of the code from the Initial Models notebook and also adds the code
                                                       for cyclical learning rate and test time augmentation
+                                                      
+Transfer Learning Final Model                         Includes all code from the previous two notebook and adds accuracy
+                                                      analysis per feature 
+                                                        
+                                                      
