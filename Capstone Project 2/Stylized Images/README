@@ -1,1 +1,11 @@
 
+Contains a sample of the stylized images created over the course of this project. There are 10 images for each of the five species. 
+The style is included in the file name.
+The interpolation weight is also included as the last number of the file name. 
+A key to understand which number corresponds to which weight:
+
+Number        Weight
+  0            0.2     
+  1            0.4
+  2            0.6
+  3            0.8
