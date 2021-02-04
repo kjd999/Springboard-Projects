@@ -1,4 +1,4 @@
-# Springboard-files
+# Springboard Projects
 
 This is a collection of several projects completed during my time in the Springboard Data Science Career Track.
 
